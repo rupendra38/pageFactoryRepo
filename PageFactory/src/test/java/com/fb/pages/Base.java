@@ -37,7 +37,7 @@ public class Base {
 		report.attachReporter(extent);
 
 	}
-
+// commit by rupendra singh
 	@BeforeClass
 	public void setUp() {
 		// driver=BrowserFactory.openBrowser(driver, "https://www.facebook.com/",
